@@ -8,7 +8,7 @@ Youtube:https://www.youtube.com/channel/UCjkY4LKoleceilmozjXxboA
 instagram:https://www.instagram.com/Mohammed_yehia_ashour/?fbclid=IwAR2a_cbJ5QvtOslbIQwKulq7a9ttK63LAjRqipNAji2JCy824r8c9g04FTI
 Discord:https://discord.com/invite/eqqdtyp
 Experiences:
-<Java/> 
+<..Java..> 
 4 years java  experience
 Basics
 methods
@@ -22,8 +22,8 @@ java fx
 GUI
 database
 core java
-<Android />
-<python/>
+<..Android.. >
+<..python..>
 Basics
 methods
 class
@@ -35,7 +35,7 @@ inheritance
 Artificial intelligence
 web scraping
 GUI
-<c#/>
+<..c#..>
 Basics
 methods
 class
@@ -44,13 +44,13 @@ data structure
 algorithms
 oop
 inheritance
-<javascript/>
+<..javascript..>
 Basics
 methods
 vue
 <br>
 react js
-</html&Css>
+<..html&Css..>
 expert in html&css
 <!---
 Moudyash/Moudyash is a ✨ special ✨ repository because its `README.md`
