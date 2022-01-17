@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moudyash
 - 👀 I’m interested in programing learning
-- 🌱 I’m currently learning php,asp.net
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 facebook:https://www.facebook.com/mohammed.ashour.3726613/
