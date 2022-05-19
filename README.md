@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moudyash
 - 👀 I’m interested in programing learning
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning laravel freamwork
+- 💞️ I’m looking to collaborate on laravel project
 - 📫 How to reach me ...
 facebook:https://www.facebook.com/mohammed.ashour.3726613/
 Youtube:https://www.youtube.com/channel/UCjkY4LKoleceilmozjXxboA
