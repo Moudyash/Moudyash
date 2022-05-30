@@ -23,10 +23,10 @@
 
 - ⚡ Fun fact **I love designing 3D intros.**
 
-<h3 align="left" onmouseover="this.style.color='#0F0'"
- onmouseout="this.style.color='#00F'">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/mohammed.ashour.3726613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed ashour" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammed.ashour.3726613" onmouseover="this.style.color='#0F0'"
+ onmouseout="this.style.color='#00F'" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed ashour" height="30" width="40" /></a>
 <a href="https://instagram.com/moudy_ashour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moudy_ashour" height="30" width="40" /></a>
 <a href="https://www.behance.net/medoash2000358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammed ashour" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjkY4LKoleceilmozjXxboA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moudy and nosa" height="30" width="40" /></a>
