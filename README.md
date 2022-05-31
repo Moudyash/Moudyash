@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on **Laravel News Website**
           
 - 🌱 I’m currently learning **Laravel Freamwork**
-          
+           
 - 👯 I’m looking to collaborate on **Android project**
 
 - 💬 Ask me about **JAVA,C#,HTML,CSS,python**
