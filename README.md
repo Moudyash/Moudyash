@@ -45,8 +45,8 @@
 <br>
           <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moudyash&show_icons=fasle&locale=en&layout=compact" alt="moudyash" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moudyash&show_icons=fasle&locale=en&layout=compact%22%20alt=%22moudyash%22" /></p>
+<br
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moudyash&show_icons=true&locale=en" alt="moudyash" /></p>
 
