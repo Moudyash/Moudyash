@@ -22,13 +22,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 
-- 🔭 I’m currently working on **Laravel News Website**
+- 🔭 I’m currently working on **New Android App**
           
-- 🌱 I’m currently learning **Laravel Freamwork**
+- 🌱 I’m currently learning **Kotlin**
            
 - 👯 I’m looking to collaborate on **Android project**
 
-- 💬 Ask me about **JAVA,C#,HTML,CSS,python**
+- 💬 Ask me about **JAVA,C#,Android,HTML,CSS,python**
 
 - ⚡ Fun fact **I love designing 3D intros.**
 
