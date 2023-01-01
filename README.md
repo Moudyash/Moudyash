@@ -22,9 +22,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 
-- 🔭 I’m currently working on **New Android App**
+- 🔭 I’m currently working on **AI Diabetes Prediction**
           
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Artificial Intelligence** 
            
 - 👯 I’m looking to collaborate on **Android project**
 
