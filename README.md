@@ -34,6 +34,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linktr.ee/mohammedyashour" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGD8Xncy8J4_8Q6L8n9My5GtzZC3DOsQGOJBMDZmd0&s" alt="mohammed ashour" height="30" width="40" /></a>
+    <a href="https://twitter.com/mohammedyashour" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="mohammed ashour" height="30" width="40" /></a>
+  
 <a href="https://www.facebook.com/mohammed.ashour.3726613" onmouseover="this.style.color='#0F0'"
  onmouseout="this.style.color='#00F'" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed ashour" height="30" width="40" /></a>
 <a href="https://instagram.com/moudy_ashour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moudy_ashour" height="30" width="40" /></a>
